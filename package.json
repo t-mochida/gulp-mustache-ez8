@@ -1,0 +1,10 @@
+{
+  "name": "gulp-mustache-cozre",
+  "version": "1.0.0",
+  "description": "gulp.js plugin for creating modules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://bitbucket.org/tokyo-ite/gulp-mustache-cozre.git"
+  }
+}
